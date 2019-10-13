@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jennifer Rolling King is my name and winning is my game. 
 Use the left arrow to go back!
